@@ -3,6 +3,13 @@ first repo for 3mtt devops course
 
 ## screenshots
 
+### git installation
+
+![Uploading Screenshot 2025-06-03 at 3.19.21 PM.png…]()
+
+
+### new repository
+
 <img width="1436" alt="Screenshot 2025-06-03 at 11 05 45 AM" src="https://github.com/user-attachments/assets/34b2f3a9-7506-4e94-b7dc-b9cd053a30fa" />
 
 
